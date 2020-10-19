@@ -15,6 +15,7 @@
 
 ```
 
+<!-- #region -->
 ### Workflow : I will be adding more topics each week as we complete each chapter and fun exercises
 ### Part 1
 + Introduction to python
@@ -39,7 +40,115 @@
 - [Importing Packages and Documentation](#import)
 - [Practice With a Partner](#ind-practice)
 
+#### [Part 2: For Loop and while Loop](#for_loop)
 
+#### [Part 3: Functions , map( ), reduce( ) , lambda( ) , containers](#functions_et_al)
+
+#### [Part 4: Regex, OOP](#regex)
+
+#### [Part 5: Numpy ](#numpy)
+
+#### [Part 6: Pandas](#Pandas)
+
+#### [Part 7: Data Visualisation ](#data_viz)
+
+
+## [Part B: Data Engineering ](#ML)
+
+#### [Part 8: SQL ](#SQL)
+
+#### [Part 9: Flask,MongoDB](#MongoDB)
+
+#### [Part 10: Webscraping](#web_scraping)
+
+#### [Part 11: API  , json](#API)
+
+#### [Part 12: Statistics ](#Statistics)
+
+
+## [Part C: Data Cleaning and EDA](#Cleaning)
+
+#### [Part 13: Data Cleaning](#cleaning)
+
+#### [Part 14: Exploratory Data Ananlysis](#EDA)
+
+
+## [Part D: Feature Engineering](#Feature_Engineering)
+
+#### [Part 15: Feature Engineering](#F_Eng)
+
+
+## [Part E: Machine Learning Algorithms ](#ML)
+
+#### [Part 1: Linear Regression ](#Linear_Regression)
+
+#### [Part 3: Logistic_Regression ](#Logistic_Regression)
+
+#### [Part 3: Decision Trees ](#Decision_Trees)
+
+#### [Part 4: Ensemble Methods](#Ensemble)
+
+#### [Part 5: Random Forest](#RandomForest)
+
+#### [Part 6: Boosting](#Boosting)
+
+#### [Part 7: KNearest Neighbors](#KNN)
+
+#### [Part 8: XGBoost](#XGBoost)
+
+#### [Part 9: Naive Bayes](#naive)
+
+#### [Part 10: Naive Bayes](#naive)
+
+
+## [Part F: Unsupervised Learning](#UL)
+
+### [Part 11: Clustering](#Clustering)
+
+### [Part 12: PCA - Principal Component Analysis](#PCA)
+
+
+### [Part 13: Anamaly Detection](#anomaly)
+
+
+### [Part 14: Timeseries](#times_series)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<!-- #endregion -->
 
 ```python
 
