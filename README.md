@@ -1,4 +1,4 @@
-# Introduction-to-Python
+# Data Science with python
 
 
  # Author : Joshua Owusu Ankomah
@@ -63,28 +63,31 @@
 
 #### [Part 11: API  , json](#API)
 
-#### [Part 12: Statistics ](#Statistics)
+## [Part C: Statistics ](#Statistics)
 
 
-## [Part C: Data Cleaning and EDA](#Cleaning)
+## [Part D: Data Cleaning and EDA](#Cleaning)
 
 #### [Part 13: Data Cleaning](#cleaning)
 
 #### [Part 14: Exploratory Data Ananlysis](#EDA)
 
 
-## [Part D: Feature Engineering](#Feature_Engineering)
+## [Part E: Feature Engineering](#Feature_Engineering)
 
 #### [Part 15: Feature Engineering](#F_Eng)
 
 
-## [Part E: Machine Learning Algorithms ](#ML)
+## [Part F: Machine Learning Algorithms ](#ML)
 
 #### [Part 1: Linear Regression ](#Linear_Regression)
+- [Linear Regression Projects](#LinR-projects)
 
 #### [Part 3: Logistic_Regression ](#Logistic_Regression)
+- [Logistic Regression Projects](#LogR-projects)
 
 #### [Part 3: Decision Trees ](#Decision_Trees)
+- [Decision Tree Projects](#Dtree-projects)
 
 #### [Part 4: Ensemble Methods](#Ensemble)
 
@@ -98,10 +101,10 @@
 
 #### [Part 9: Naive Bayes](#naive)
 
-#### [Part 10: Naive Bayes](#naive)
+#### [More_Projects](#more_projects)
 
 
-## [Part F: Unsupervised Learning](#UL)
+## [Part G: Unsupervised Learning](#UL)
 
 ### [Part 11: Clustering](#Clustering)
 
