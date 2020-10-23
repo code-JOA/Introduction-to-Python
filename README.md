@@ -11,6 +11,12 @@
 
 
 
+
+![Profile Views](https://gpvc.arturio.dev/code-JOA)<a href="https://github.com/code-JOA/code-JOA/actions"></a>
+
+
+[![HitCount](http://hits.dwyl.io/code-JOA/badges.svg)](http://hits.dwyl.io/code_JOA/badges)
+
 ```python
 
 ```
@@ -180,25 +186,7 @@ Please feel free to keep in touch if you have any queries or would like us to wo
 
 ```
 
-```python
-
-```
-
-```python
-
-```
-
-```python
-
-```
-
-```python
-
-```
-
-```python
-
-```
+![Profile views](https://gpvc.arturio.dev/code-JOA)<a href="https://github.com/code-JOA/Code-JOA/actions"><img src="http://hits.dwyl.io/code-JOA/badges.svg (http://hits.dwyl.io/code_JOA/badges)" align="right" alt="Hits"></a>
 
 ```python
 
