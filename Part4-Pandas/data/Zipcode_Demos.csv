@@ -1,0 +1,58 @@
+0,Average Statistics,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+1,,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+2,JURISDICTION NAME,10005.8,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+3,COUNT PARTICIPANTS,9.4,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+4,COUNT FEMALE,4.8,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+5,PERCENT FEMALE,0.404,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+6,COUNT MALE,4.6,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+7,PERCENT MALE,0.396,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+8,COUNT GENDER UNKNOWN,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+9,PERCENT GENDER UNKNOWN,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+10,COUNT GENDER TOTAL,9.4,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+11,PERCENT GENDER TOTAL,80,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+12,COUNT PACIFIC ISLANDER,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+13,PERCENT PACIFIC ISLANDER,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+14,COUNT HISPANIC LATINO,2,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+15,PERCENT HISPANIC LATINO,0.105,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+16,COUNT AMERICAN INDIAN,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+17,PERCENT AMERICAN INDIAN,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+18,COUNT ASIAN NON HISPANIC,3.6,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+19,PERCENT ASIAN NON HISPANIC,0.437,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+20,COUNT WHITE NON HISPANIC,0.8,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+21,PERCENT WHITE NON HISPANIC,0.036,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+22,COUNT BLACK NON HISPANIC,2.6,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+23,PERCENT BLACK NON HISPANIC,0.181,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+24,COUNT OTHER ETHNICITY,0.4,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+25,PERCENT OTHER ETHNICITY,0.04,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+26,COUNT ETHNICITY UNKNOWN,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+27,PERCENT ETHNICITY UNKNOWN,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+28,COUNT ETHNICITY TOTAL,9.4,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+29,PERCENT ETHNICITY TOTAL,79.9,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+30,COUNT PERMANENT RESIDENT ALIEN,0.5,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+31,PERCENT PERMANENT RESIDENT ALIEN,0.061,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+32,COUNT US CITIZEN,8.9,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+33,PERCENT US CITIZEN,0.739,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+34,COUNT OTHER CITIZEN STATUS,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+35,PERCENT OTHER CITIZEN STATUS,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+36,COUNT CITIZEN STATUS UNKNOWN,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+37,PERCENT CITIZEN STATUS UNKNOWN,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+38,COUNT CITIZEN STATUS TOTAL,9.4,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+39,PERCENT CITIZEN STATUS TOTAL,80,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+40,COUNT RECEIVES PUBLIC ASSISTANCE,2.3,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+41,PERCENT RECEIVES PUBLIC ASSISTANCE,0.151,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+42,COUNT NRECEIVES PUBLIC ASSISTANCE,7.1,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+43,PERCENT NRECEIVES PUBLIC ASSISTANCE,0.649,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+44,COUNT PUBLIC ASSISTANCE UNKNOWN,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+45,PERCENT PUBLIC ASSISTANCE UNKNOWN,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+46,COUNT PUBLIC ASSISTANCE TOTAL,9.4,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+47,JURISDICTION NAME,COUNT PARTICIPANTS,COUNT FEMALE,PERCENT FEMALE,COUNT MALE,PERCENT MALE,COUNT GENDER UNKNOWN,PERCENT GENDER UNKNOWN,COUNT GENDER TOTAL,PERCENT GENDER TOTAL,COUNT PACIFIC ISLANDER,PERCENT PACIFIC ISLANDER,COUNT HISPANIC LATINO,PERCENT HISPANIC LATINO,COUNT AMERICAN INDIAN,PERCENT AMERICAN INDIAN,COUNT ASIAN NON HISPANIC,PERCENT ASIAN NON HISPANIC,COUNT WHITE NON HISPANIC,PERCENT WHITE NON HISPANIC,COUNT BLACK NON HISPANIC,PERCENT BLACK NON HISPANIC,COUNT OTHER ETHNICITY,PERCENT OTHER ETHNICITY,COUNT ETHNICITY UNKNOWN,PERCENT ETHNICITY UNKNOWN,COUNT ETHNICITY TOTAL,PERCENT ETHNICITY TOTAL,COUNT PERMANENT RESIDENT ALIEN,PERCENT PERMANENT RESIDENT ALIEN,COUNT US CITIZEN,PERCENT US CITIZEN,COUNT OTHER CITIZEN STATUS,PERCENT OTHER CITIZEN STATUS,COUNT CITIZEN STATUS UNKNOWN,PERCENT CITIZEN STATUS UNKNOWN,COUNT CITIZEN STATUS TOTAL,PERCENT CITIZEN STATUS TOTAL,COUNT RECEIVES PUBLIC ASSISTANCE,PERCENT RECEIVES PUBLIC ASSISTANCE,COUNT NRECEIVES PUBLIC ASSISTANCE,PERCENT NRECEIVES PUBLIC ASSISTANCE,COUNT PUBLIC ASSISTANCE UNKNOWN,PERCENT PUBLIC ASSISTANCE UNKNOWN,COUNT PUBLIC ASSISTANCE TOTAL,PERCENT PUBLIC ASSISTANCE TOTAL
+48,10001,44,22,0.5,22,0.5,0,0,44,100,0,0,16,0.36,0,0,3,0.07,1,0.02,21,0.48,3,0.07,0,0,44,100,2,0.05,42,0.95,0,0,0,0,44,100,20,0.45,24,0.55,0,0,44,100
+49,10002,35,19,0.54,16,0.46,0,0,35,100,0,0,1,0.03,0,0,28,0.8,6,0.17,0,0,0,0,0,0,35,100,2,0.06,33,0.94,0,0,0,0,35,100,2,0.06,33,0.94,0,0,35,100
+50,10003,1,1,1,0,0,0,0,1,100,0,0,0,0,0,0,1,1,0,0,0,0,0,0,0,0,1,100,0,0,1,1,0,0,0,0,1,100,0,0,1,1,0,0,1,100
+51,10004,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+52,10005,2,2,1,0,0,0,0,2,100,0,0,0,0,0,0,1,0.5,0,0,1,0.5,0,0,0,0,2,100,1,0.5,1,0.5,0,0,0,0,2,100,0,0,2,1,0,0,2,100
+53,10006,6,2,0.33,4,0.67,0,0,6,100,0,0,2,0.33,0,0,0,0,1,0.17,3,0.5,0,0,0,0,6,100,0,0,6,1,0,0,0,0,6,100,0,0,6,1,0,0,6,100
+54,10007,1,0,0,1,1,0,0,1,100,0,0,0,0,0,0,1,1,0,0,0,0,0,0,0,0,1,100,0,0,1,1,0,0,0,0,1,100,1,1,0,0,0,0,1,100
+55,10009,2,0,0,2,1,0,0,2,100,0,0,0,0,0,0,2,1,0,0,0,0,0,0,0,0,2,100,0,0,2,1,0,0,0,0,2,100,0,0,2,1,0,0,2,100
+56,10010,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+57,10011,3,2,0.67,1,0.33,0,0,3,100,0,0,1,0.33,0,0,0,0,0,0,1,0.33,1,0.33,0,0,3,99,0,0,3,1,0,0,0,0,3,100,0,0,3,1,0,0,3,100
