@@ -1,8 +1,19 @@
 # Data Science with python
 
 
- # Author : Joshua Owusu Ankomah
+ # Author : [Joshua Owusu Ankomah](https://www.linkedin.com/in/joshua-owusu-ankomah-2b5a9898/)
 
+
+# How to make use of this repo while its under contruction
++ use git clone to clone the repo
++ make a copy and do not touch the original files to prevent a merge conflict after the next step
++ git pull from the original copy to get the new updates everytime I push.
++ If you havent made any changes to the original files, you should be all set without any merge conflicts
++ If you are still confused, contact me and I will walk you through. My socials are on the last line of this repo. I respond quicker via linkendIn though.
+
+```python
+
+```
 
 # I have created this repo to touch base on the fundamentals of python . 
 # With the intention of bringing your python knowlegde up to speed to enable your transition into Data Science
@@ -15,7 +26,7 @@
 ![Profile Views](https://gpvc.arturio.dev/code-JOA)<a href="https://github.com/code-JOA/code-JOA/actions"></a>
 
 
-[![HitCount](http://hits.dwyl.io/code-JOA/badges.svg)](http://hits.dwyl.io/code_JOA/badges)
+<!-- [![HitCount](http://hits.dwyl.io/code-JOA/badges.svg)](http://hits.dwyl.io/code_JOA/badges) -->
 
 ```python
 
@@ -182,15 +193,19 @@ Please feel free to keep in touch if you have any queries or would like us to wo
 
 <!-- #endregion -->
 
-```python
-
-```
-
-![Profile views](https://gpvc.arturio.dev/code-JOA)<a href="https://github.com/code-JOA/Code-JOA/actions"><img src="http://hits.dwyl.io/code-JOA/badges.svg (http://hits.dwyl.io/code_JOA/badges)" align="right" alt="Hits"></a>
+# Thank you for your patience. I am working really hard each day to get this materials ready and most importantly for free.
 
 ```python
 
 ```
+
+<!-- ![Profile views](https://gpvc.arturio.dev/code-JOA)<a href="https://github.com/code-JOA/Code-JOA/actions"><img src="http://hits.dwyl.io/code-JOA/badges.svg (http://hits.dwyl.io/code_JOA/badges)" align="right" alt="Hits"></a> -->
+
+```python
+
+```
+
+![Profile views](https://gpvc.arturio.dev/code-JOA)<a href="https://github.com/code-JOA/Code-JOA/actions">
 
 ```python
 
