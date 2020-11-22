@@ -4,12 +4,7 @@
  # Author : [Joshua Owusu Ankomah](https://www.linkedin.com/in/joshua-owusu-ankomah-2b5a9898/)
 
 
-# How to make use of this repo while its under contruction
-+ use git clone to clone the repo
-+ make a copy and do not touch the original files to prevent a merge conflict after the next step
-+ git pull from the original copy to get the new updates everytime I push.
-+ If you havent made any changes to the original files, you should be all set without any merge conflicts
-+ If you are still confused, contact me and I will walk you through. My socials are on the last line of this repo. I respond quicker via linkendIn though.
+# Note : This repo is still under construction. 
 
 ```python
 
