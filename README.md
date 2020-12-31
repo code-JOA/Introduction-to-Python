@@ -83,6 +83,10 @@
 
 
 ## [Session 3: Linear Algebra , Calculus](#API)
+- [01.Linear Algebra](#linear-algebra)
+
+- [02.Calculus](#calculus)
+
 
 
 ## [Session 4: Data Cleaning and EDA](#Cleaning)
