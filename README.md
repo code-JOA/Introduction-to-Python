@@ -77,6 +77,9 @@
 
 
 ## [Session 2: Statistics ](#Statistics)
+- [01.Statistics](#statistics)
+- [02.Probability](#probability)
+
 
 
 ## [Session 3: Linear Algebra , Calculus](#API)
