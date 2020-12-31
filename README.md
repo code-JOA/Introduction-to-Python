@@ -108,38 +108,28 @@
 - [Part 1: Linear Regression ](#Linear_Regression)
 - [Linear Regression Projects](#LinR-projects)
 
-#### [Part 3: Logistic_Regression ](#Logistic_Regression)
+- [Part 2: Logistic_Regression ](#Logistic_Regression)
 - [Logistic Regression Projects](#LogR-projects)
 
-#### [Part 3: Decision Trees ](#Decision_Trees)
+- [Part 3: Decision Trees ](#Decision_Trees)
 - [Decision Tree Projects](#Dtree-projects)
 
-#### [Part 4: Ensemble Methods](#Ensemble)
-
-#### [Part 5: Random Forest](#RandomForest)
-
-#### [Part 6: Boosting](#Boosting)
-
-#### [Part 7: KNearest Neighbors](#KNN)
-
-#### [Part 8: XGBoost](#XGBoost)
-
-#### [Part 9: Naive Bayes](#naive)
-
-#### [More_Projects](#more_projects)
+- [Part 4: Ensemble Methods](#Ensemble)
+- [Part 5: Random Forest](#RandomForest)
+- [Part 6: Boosting](#Boosting-- [Part 7: KNearest Neighbors](#KNN-- [Part 8: XGBoost](#XGBoost-- [Part 9: Naive Bayes](#naive-- [More_Projects](#more_projects)
 
 
 ## [Part G: Unsupervised Learning](#UL)
 
-### [Part 11: Clustering](#Clustering)
+- [Part 11: Clustering](#Clustering)
 
-### [Part 12: PCA - Principal Component Analysis](#PCA)
-
-
-### [Part 13: Anamaly Detection](#anomaly)
+- [Part 12: PCA - Principal Component Analysis](#PCA)
 
 
-### [Part 14: Timeseries](#times_series)
+- [Part 13: Anamaly Detection](#anomaly)
+
+
+- [Part 14: Timeseries](#times_series)
 
 
 
