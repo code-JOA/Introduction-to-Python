@@ -70,13 +70,13 @@
 
 ## [Part B: Data Engineering ](#ML)
 
-#### [Part 8: SQL ](#SQL)
+- [Part 8: SQL ](#SQL)
 
-#### [Part 9: Flask,MongoDB](#MongoDB)
+- [Part 9: Flask,MongoDB](#MongoDB)
 
-#### [Part 10: Webscraping](#web_scraping)
+- [Part 10: Webscraping](#web_scraping)
 
-#### [Part 11: API  , json](#API)
+- [Part 11: API  , json](#API)
 
 
 ## [Session 2: Statistics ](#Statistics)
@@ -91,22 +91,21 @@
 
 ## [Session 4: Data Cleaning and EDA](#Cleaning)
 
-#### [Part 13: Data Cleaning](#cleaning)
+- [Part 13: Data Cleaning](#cleaning)
 
-#### [Part 14: Exploratory Data Ananlysis](#EDA)
+- [Part 14: Exploratory Data Ananlysis](#EDA)
 
 
 ## [Session 5: Introduction to Machine Learning](#MLintro)
 
+- [Part E: Feature Engineering](#Feature_Engineering)
 
-#### [Part E: Feature Engineering](#Feature_Engineering)
-
-#### [Part 15: Feature Engineering](#F_Eng)
+- [Part 15: Feature Engineering](#F_Eng)
 
 
 #### [Part F: Machine Learning Algorithms ](#ML)
 
-#### [Part 1: Linear Regression ](#Linear_Regression)
+- [Part 1: Linear Regression ](#Linear_Regression)
 - [Linear Regression Projects](#LinR-projects)
 
 #### [Part 3: Logistic_Regression ](#Logistic_Regression)
