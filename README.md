@@ -29,10 +29,7 @@
 
 <!-- #region -->
 ### Workflow : I will be adding more topics each week as we complete each chapter and fun exercises
-### Part 1
-+ Introduction to python
-+ Data types 
-+ Data structures 
+
 
 ### Lesson Guide
 
@@ -116,7 +113,15 @@
 
 - [Part 4: Ensemble Methods](#Ensemble)
 - [Part 5: Random Forest](#RandomForest)
-- [Part 6: Boosting](#Boosting-- [Part 7: KNearest Neighbors](#KNN-- [Part 8: XGBoost](#XGBoost-- [Part 9: Naive Bayes](#naive-- [More_Projects](#more_projects)
+- [Part 6: Boosting](#Boosting)
+
+- [Part 7: KNearest Neighbors](#KNN)
+
+- [Part 8: XGBoost](#XGBoost)
+
+- [Part 9: Naive Bayes](#naive)
+
+- [More_Projects](#more_projects)
 
 
 ## [Part G: Unsupervised Learning](#UL)
