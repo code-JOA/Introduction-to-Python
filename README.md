@@ -36,6 +36,9 @@
 
 ### Lesson Guide
 
+## [Session 1: Data Engineerin ](#Intro)
+
+
 #### [Part 1: Python Data Types](#why_py)
 - [Why Python?](#why_py)
 - [Introduction to Data Types](#intro)
@@ -75,7 +78,9 @@
 
 #### [Part 11: API  , json](#API)
 
-## [Part C: Statistics ](#Statistics)
+## [Session 2: Statistics ](#Statistics)
+
+##### [Part 11: API  , json](#API)
 
 
 ## [Part D: Data Cleaning and EDA](#Cleaning)
