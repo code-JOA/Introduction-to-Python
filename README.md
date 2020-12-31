@@ -36,7 +36,7 @@
 
 ### Lesson Guide
 
-## [Session 1: Data Engineerin ](#Intro)
+## [Session 1: Introduction to python ](#Intro)
 
 
 #### [Part 1: Python Data Types](#why_py)
@@ -78,16 +78,21 @@
 
 #### [Part 11: API  , json](#API)
 
+
 ## [Session 2: Statistics ](#Statistics)
 
-##### [Part 11: API  , json](#API)
+
+## [Session 3: Linear Algebra , Calculus](#API)
 
 
-## [Part D: Data Cleaning and EDA](#Cleaning)
+## [Session 4: Data Cleaning and EDA](#Cleaning)
 
 #### [Part 13: Data Cleaning](#cleaning)
 
 #### [Part 14: Exploratory Data Ananlysis](#EDA)
+
+
+## [Session 5: Data Cleaning and EDA](#Cleaning)
 
 
 ## [Part E: Feature Engineering](#Feature_Engineering)
